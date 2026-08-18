@@ -33,9 +33,9 @@ fixes, and learning through collaboration with the open-source community.
 
 If my open-source contributions have been useful to you, you can support my work with a small donation.
 
-[![Support via PayPal](https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ravik453)
+[![Support via PayPal](https://img.shields.io/badge/Support%20via%20PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/ravik453)
 
-[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ravik453)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ravik453)
 
 ---
 
