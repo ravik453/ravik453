@@ -14,6 +14,8 @@ extensions for Windows.
 
 - ✅ [PR #2787 — setuptools 84 compatibility](https://github.com/mhammond/pywin32/pull/2787)
   - Fixed a build failure caused by unhashable setuptools extensions.
+  - Updated compiler initialization compatibility for newer setuptools.
+  - Preserved Python 3.9 support.
   - Merged into `main`.
 
 - ✅ [PR #2788 — `win32api.ToUnicodeEx`](https://github.com/mhammond/pywin32/pull/2788)
@@ -29,11 +31,11 @@ fixes, and learning through collaboration with the open-source community.
 
 ## ☕ Support My Open Source Journey
 
-If my open-source contributions have been useful to you, you can support
-my work with a small donation.
+If my open-source contributions have been useful to you, you can support my work with a small donation.
 
-- 💙 [Support via PayPal](https://paypal.me/ravik453)
-- ☕ [Support via Ko-fi](https://ko-fi.com/ravik453)
+[![Support via PayPal](https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ravik453)
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ravik453)
 
 ---
 
