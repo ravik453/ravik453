@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ravi 👋
 
-<!--
-**ravik453/ravik453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open Source Contributor
 
-Here are some ideas to get you started:
+I enjoy contributing to open-source projects, solving technical problems,
+and building improvements that are useful to the wider community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Open Source Contributions
+
+### pywin32
+
+Contributor to [pywin32](https://github.com/mhammond/pywin32), the Python
+extensions for Windows.
+
+- ✅ [PR #2787 — setuptools 84 compatibility](https://github.com/mhammond/pywin32/pull/2787)
+  - Fixed a build failure caused by unhashable setuptools extensions.
+  - Merged into `main`.
+
+- ✅ [PR #2788 — `win32api.ToUnicodeEx`](https://github.com/mhammond/pywin32/pull/2788)
+  - Added a `win32api.ToUnicodeEx` wrapper for the Windows API.
+  - Added regression tests.
+  - Added the changelog entry and fixed clang-format issues.
+  - Merged into `main`.
+
+## 🌱 Open Source
+
+I'm interested in finding bugs, improving existing projects, contributing
+fixes, and learning through collaboration with the open-source community.
+
+## ☕ Support My Open Source Journey
+
+If my open-source contributions have been useful to you, you can support
+my work with a small donation.
+
+- 💙 [Support via PayPal](https://paypal.me/ravik453)
+- ☕ [Support via Ko-fi](https://ko-fi.com/ravik453)
+
+---
+
+Thanks for visiting my profile! ⭐
