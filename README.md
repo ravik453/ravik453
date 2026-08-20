@@ -2,41 +2,68 @@
 
 ### Open Source Contributor
 
-I enjoy contributing to open-source projects, solving technical problems,
-and building improvements that are useful to the wider community.
+I'm an IT professional with a broad technical background, always curious
+about how technology works and eager to get hands-on with new systems,
+tools, and challenges.
 
-## 🛠️ Open Source Contributions
+I enjoy exploring technology across the stack, learning by doing,
+troubleshooting real-world problems, and contributing to open-source
+projects.
 
-### pywin32
+## 🛠️ Tools & Technologies
 
-Contributor to [pywin32](https://github.com/mhammond/pywin32), the Python
-extensions for Windows.
+Over the years, I've worked with a broad range of enterprise technologies
+and platforms, building practical knowledge across application support,
+systems, infrastructure, databases, monitoring, automation, and cloud.
 
-- ✅ [PR #2787 — setuptools 84 compatibility](https://github.com/mhammond/pywin32/pull/2787)
-  - Fixed a build failure caused by unhashable setuptools extensions.
-  - Updated compiler initialization compatibility for newer setuptools.
-  - Preserved Python 3.9 support.
-  - Merged into `main`.
+My experience with these technologies has primarily involved supporting, troubleshooting,
+maintaining, and working across various technical environments.
 
-- ✅ [PR #2788 — `win32api.ToUnicodeEx`](https://github.com/mhammond/pywin32/pull/2788)
-  - Added a `win32api.ToUnicodeEx` wrapper for the Windows API.
-  - Added regression tests.
-  - Added the changelog entry and fixed clang-format issues.
-  - Merged into `main`.
+**Enterprise & Application Platforms**
+
+Axway MFT • IBM WebSphere • IBM FileNet • IBM Datacap • Trintech ReconNet
+
+**Endpoint & Identity**
+
+Microsoft Intune • Microsoft Entra ID
+
+**Databases & Data**
+
+IBM DB2 • Oracle Essbase • SQL
+
+**Job Scheduling & Monitoring**
+
+AutoSys • Control-M • APM
+
+**Automation & Infrastructure**
+
+Ansible • Terraform
+
+**Systems & Development**
+
+Linux • Windows • Python • Shell • Git • Docker • Kubernetes • Cloud • CI/CD
+
+## 🐛 Bug Bounty & Security Research
+
+Exploring vulnerability research and bug bounty programs, with a focus on
+learning through hands-on testing, responsible disclosure, and understanding
+how real-world applications and systems can be secured.
 
 ## 🌱 Open Source
 
 I'm interested in finding bugs, improving existing projects, contributing
 fixes, and learning through collaboration with the open-source community.
 
+I enjoy working with maintainers and contributors, understanding real-world
+problems, writing tests, and turning ideas into practical improvements.
+
 ## ☕ Support My Open Source Journey
 
-If my open-source contributions have been useful to you, you can support my work with a small donation.
+If you find my work useful and would like to support my open-source
+contributions:
 
-[![Support via PayPal](https://img.shields.io/badge/Support%20via%20PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/ravik453)
-
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ravik453)
+**[PayPal](https://paypal.me/ravik453) • [Ko-fi](https://ko-fi.com/ravik453)**
 
 ---
 
-Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
