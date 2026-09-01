@@ -1,23 +1,37 @@
 # Hi, I'm Ravi 👋
 
-### Open Source Contributor
+### Open Source Contributor • IT & Infrastructure Professional
 
-I'm an IT professional with a broad technical background, always curious
-about how technology works and eager to get hands-on with new systems,
-tools, and challenges.
+I'm an IT professional with a broad technical background across systems,
+infrastructure, application support, automation, and enterprise platforms.
 
-I enjoy exploring technology across the stack, learning by doing,
-troubleshooting real-world problems, and contributing to open-source
-projects.
+I'm currently focused on **open-source development and contribution** —
+finding real-world bugs, understanding existing codebases, writing tests,
+fixing issues, and working with maintainers to improve software.
 
-## 🛠️ Tools & Technologies
+## 🚀 What I'm Working On
 
-Over the years, I've worked with a broad range of enterprise technologies
-and platforms, building practical knowledge across application support,
-systems, infrastructure, databases, monitoring, automation, and cloud.
+- 🐛 Investigating and fixing bugs in open-source projects
+- 🧪 Writing and improving automated tests
+- 🐍 Working with Python and developer tooling
+- 🐧 Linux systems, infrastructure, and troubleshooting
+- 🐳 Docker, Kubernetes, CI/CD and automation
+- 🔍 Security research and responsible vulnerability disclosure
+- 🤝 Collaborating with open-source maintainers and contributors
 
-My experience with these technologies has primarily involved supporting, troubleshooting,
-maintaining, and working across various technical environments.
+## 🛠️ Technologies & Tools
+
+**Languages & Development**
+
+Python • Shell • Git
+
+**Systems & Infrastructure**
+
+Linux • Windows • Docker • Kubernetes • Cloud • CI/CD
+
+**Automation & Infrastructure**
+
+Ansible • Terraform
 
 **Enterprise & Application Platforms**
 
@@ -31,39 +45,40 @@ Microsoft Intune • Microsoft Entra ID
 
 IBM DB2 • Oracle Essbase • SQL
 
-**Job Scheduling & Monitoring**
+**Scheduling & Monitoring**
 
 AutoSys • Control-M • APM
 
-**Automation & Infrastructure**
+## 🌱 Open Source
 
-Ansible • Terraform
+I enjoy working on real-world problems in open-source projects.
 
-**Systems & Development**
+My contribution process is simple:
 
-Linux • Windows • Python • Shell • Git • Docker • Kubernetes • Cloud • CI/CD
+**Investigate → Reproduce → Fix → Test → Review → Improve**
+
+I'm particularly interested in bug fixes, reliability improvements,
+developer tooling, testing, and infrastructure-related projects.
 
 ## 🐛 Bug Bounty & Security Research
 
-Exploring vulnerability research and bug bounty programs, with a focus on
-learning through hands-on testing, responsible disclosure, and understanding
-how real-world applications and systems can be secured.
+I'm exploring vulnerability research and bug bounty programs through
+hands-on testing, responsible disclosure, and learning how real-world
+applications and systems can be secured.
 
-## 🌱 Open Source
+## ☕ Support My Open Source Work
 
-I'm interested in finding bugs, improving existing projects, contributing
-fixes, and learning through collaboration with the open-source community.
-
-I enjoy working with maintainers and contributors, understanding real-world
-problems, writing tests, and turning ideas into practical improvements.
-
-## ☕ Support My Open Source Journey
-
-If you find my work useful and would like to support my open-source
-contributions:
+If you find my contributions useful and would like to support my work,
+you can sponsor me or leave a contribution:
 
 **[GitHub Sponsors](https://github.com/sponsors/ravik453) • [PayPal](https://paypal.me/ravik453) • [Ko-fi](https://ko-fi.com/ravik453)**
+
+Your support helps me spend more time researching, contributing,
+and improving open-source software.
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+If you're interested in open source, infrastructure, Linux, Python,
+automation, or debugging real-world problems, feel free to connect.
