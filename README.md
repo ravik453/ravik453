@@ -19,36 +19,6 @@ fixing issues, and working with maintainers to improve software.
 - 🔍 Security research and responsible vulnerability disclosure
 - 🤝 Collaborating with open-source maintainers and contributors
 
-## 🛠️ Technologies & Tools
-
-**Languages & Development**
-
-Python • Shell • Git
-
-**Systems & Infrastructure**
-
-Linux • Windows • Docker • Kubernetes • Cloud • CI/CD
-
-**Automation & Infrastructure**
-
-Ansible • Terraform
-
-**Enterprise & Application Platforms**
-
-Axway MFT • IBM WebSphere • IBM FileNet • IBM Datacap • Trintech ReconNet
-
-**Endpoint & Identity**
-
-Microsoft Intune • Microsoft Entra ID
-
-**Databases & Data**
-
-IBM DB2 • Oracle Essbase • SQL
-
-**Scheduling & Monitoring**
-
-AutoSys • Control-M • APM
-
 ## 🌱 Open Source
 
 I enjoy working on real-world problems in open-source projects.
