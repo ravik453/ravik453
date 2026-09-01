@@ -62,7 +62,7 @@ problems, writing tests, and turning ideas into practical improvements.
 If you find my work useful and would like to support my open-source
 contributions:
 
-**[PayPal](https://paypal.me/ravik453) • [Ko-fi](https://ko-fi.com/ravik453)**
+**[GitHub Sponsors](https://github.com/sponsors/ravik453) • [PayPal](https://paypal.me/ravik453) • [Ko-fi](https://ko-fi.com/ravik453)**
 
 ---
 
