@@ -50,5 +50,5 @@ and improving open-source software.
 
 ⭐ Thanks for visiting my profile!
 
-If you're interested in open source, infrastructure, Linux, Python,
+If you're interested in open source, infrastructure, Linux,
 automation, or debugging real-world problems, feel free to connect.
