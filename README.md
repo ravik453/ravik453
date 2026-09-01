@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-### Open Source Contributor • IT & Infrastructure Professional
+### Open Source Contributor | IT & Infrastructure | Windows & Linux | Automation | Security
 
 I'm an IT professional with a broad technical background across systems,
 infrastructure, application support, automation, and enterprise platforms.
